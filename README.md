@@ -54,7 +54,7 @@ curl 'http://localhost:3000/products/total?items[<productId1>]=<productQuantity1
 curl 'http://localhost:3000/products/total?discount=1&items[<productId1>]=<productQuantity1>&items[<productId2>]=<productQuantity2>' -H 'Content-Type: application/json'
 ```
   - **\<productId\>** - product ID in list
-  -** \<productQuantity\>** - quantity of product in list
+  - **\<productQuantity\>** - quantity of product in list
 
 ### Tests
 #### Run application tests
