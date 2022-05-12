@@ -1,6 +1,6 @@
 ### Description
 
-Test merchandising store implementation. Includes two models **Product** and **Discount** and also small REST API to interact with application.
+Test merchandising store implementation. Includes model **Product**, **Discount** services and also small REST API to interact with application.
 
 ### Required
 
