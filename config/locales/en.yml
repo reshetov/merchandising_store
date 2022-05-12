@@ -30,4 +30,7 @@
 # available at https://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+  errors:
+    not_found: Object not found
+    wrong_discount_type: Wrong type of discount
+
